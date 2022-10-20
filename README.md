@@ -15,11 +15,14 @@
   <a href="https://thdbs523.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>    
     
     
-    
-</div>
+
+  <br>
+ 
 
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhm0728&layout=compact&card_witdh=300&theme=buefy"/> 
 
   ### Once I've Used.. ✏️
+
+</div>
