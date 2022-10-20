@@ -29,6 +29,8 @@
 
   ### Once I've Used.. ✏️
     
+    ---
+    
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> 
       <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=SQL&logoColor=white"/> 
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
