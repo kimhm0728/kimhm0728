@@ -18,8 +18,7 @@
   <a href="https://www.instagram.com/hrniin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
   <a href="https://thdbs523.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>    
     
-    
-
+  
   <br>
  
 
@@ -40,7 +39,7 @@
     
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TortoiseSVN-819DC9?style=flat-square&logo=TortoiseSVN&logoColor=white"/>   <br>
     
