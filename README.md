@@ -15,6 +15,7 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimhm0728)](https://solved.ac/kimhm0728)
  
+  <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
 </div>
 
 ----------
