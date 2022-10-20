@@ -11,11 +11,9 @@
   
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
   <a href="https://github.com/kimhm0728"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhm0728&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
-
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimhm0728)](https://solved.ac/kimhm0728)
+  <a href="https://solved.ac/kimhm0728"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimhm0728"/></a>
  
-  <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+
 </div>
 
 ----------
