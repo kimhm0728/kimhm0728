@@ -27,8 +27,10 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhm0728&layout=compact&card_witdh=300&theme=buefy"/> 
 
-  ### Once I've Used.. ✏️
-  
+  ### 🔧 Tech Stacks
+    
+    <br>
+    
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=SQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
