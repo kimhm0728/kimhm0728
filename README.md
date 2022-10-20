@@ -4,7 +4,8 @@
 
 
   
-  ### 😺 Kim Hye Min 😺
+  ## Hi! 
+  ## I'm back-end developer, Kim Hye-min.
   
   ---
   
