@@ -28,7 +28,7 @@
 
   ### 🔧 Tech Stacks
     
-    <br>
+  <br>
     
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=SQL&logoColor=white"/> 
