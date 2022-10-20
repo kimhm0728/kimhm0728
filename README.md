@@ -4,10 +4,8 @@
 
 
   
-  ## Hi! 
-  ## I'm back-end developer, Kim Hye-min.
+  ## 😺 Kim Hye Min 😺
   
-  ---
   
   
   
@@ -23,7 +21,7 @@
   <br>
  
 
----
+## 　
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhm0728&layout=compact&card_witdh=300&theme=buefy"/> 
 
