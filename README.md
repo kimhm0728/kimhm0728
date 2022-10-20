@@ -1,6 +1,6 @@
 <div align="center">
   
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kimhm0728&theme=buefy&count_private=true&card_width=300&show_icons=false&disable_animations=true&custom_title=GitHub%20Stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kimhm0728&theme=buefy&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
 
 
   
