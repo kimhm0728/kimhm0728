@@ -8,6 +8,8 @@
   
   ---
   
+  
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimhm0728)](https://solved.ac/kimhm0728)
  
