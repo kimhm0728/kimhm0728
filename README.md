@@ -8,9 +8,8 @@
   
   ---
   
-  [![Solved.ac
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimhm0728)](https://solved.ac/kimhm0728)
-  <br>
  
 </div>
 
