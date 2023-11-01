@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>     <br>
     
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>    <br>
 
   
