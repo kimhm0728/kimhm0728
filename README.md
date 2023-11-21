@@ -1,42 +1,33 @@
 <div align="center">
-  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kimhm0728&theme=buefy&count_private=true&show_icons=true&custom_title=GitHub%20Stats"/>
 
-
-  
-  ### 😺 Kim Hye Min 😺
-  
-  ---
-  
-  
-  <br>
- 
- 
-  <a href="https://github.com/kimhm0728"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhm0728&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
-  <a href="https://solved.ac/kimhm0728"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimhm0728"/></a>  <br>
-  <a href="https://www.instagram.com/hrniin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
-  <a href="https://thdbs523.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>    
-    
-  
-  <br>
- 
+### 😺 Kim Hye Min 😺
 ---
+<br>
 
+<a href="https://github.com/kimhm0728"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimhm0728&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
+<a href="https://solved.ac/kimhm0728"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kimhm0728"/></a>     
+<a href="https://www.instagram.com/hrniin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://thdbs523.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>    
+
+<br>
+
+---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhm0728&layout=compact&card_witdh=300&theme=buefy"/> 
 
-  ### 🔧 Tech Stacks
-    
-  <br>
+### 🔧 Tech Stacks
 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>     <br>
-    
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>    <br>
+<br>
 
-  
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br>
+
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<br>
 
 </div>
